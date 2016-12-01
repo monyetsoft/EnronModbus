@@ -1,0 +1,11 @@
+C:\Coba\ANTA PENDOPO\MonyetSoft.EnronModbus\MonyetSoft.EnronModbus\bin\Debug\MonyetSoft.EnronModbus.exe.config
+C:\Coba\ANTA PENDOPO\MonyetSoft.EnronModbus\MonyetSoft.EnronModbus\bin\Debug\MonyetSoft.EnronModbus.exe
+C:\Coba\ANTA PENDOPO\MonyetSoft.EnronModbus\MonyetSoft.EnronModbus\bin\Debug\MonyetSoft.EnronModbus.pdb
+C:\Coba\ANTA PENDOPO\MonyetSoft.EnronModbus\MonyetSoft.EnronModbus\bin\Debug\MonyetSoft.EnronModbus.xml
+C:\Coba\ANTA PENDOPO\MonyetSoft.EnronModbus\MonyetSoft.EnronModbus\obj\Debug\MonyetSoft.EnronModbus.vbprojResolveAssemblyReference.cache
+C:\Coba\ANTA PENDOPO\MonyetSoft.EnronModbus\MonyetSoft.EnronModbus\obj\Debug\MonyetSoft.EnronModbus.MonyetSoft.EnronModBus.frmDemo.resources
+C:\Coba\ANTA PENDOPO\MonyetSoft.EnronModbus\MonyetSoft.EnronModbus\obj\Debug\MonyetSoft.EnronModbus.Resources.resources
+C:\Coba\ANTA PENDOPO\MonyetSoft.EnronModbus\MonyetSoft.EnronModbus\obj\Debug\MonyetSoft.EnronModbus.vbproj.GenerateResource.Cache
+C:\Coba\ANTA PENDOPO\MonyetSoft.EnronModbus\MonyetSoft.EnronModbus\obj\Debug\MonyetSoft.EnronModbus.exe
+C:\Coba\ANTA PENDOPO\MonyetSoft.EnronModbus\MonyetSoft.EnronModbus\obj\Debug\MonyetSoft.EnronModbus.xml
+C:\Coba\ANTA PENDOPO\MonyetSoft.EnronModbus\MonyetSoft.EnronModbus\obj\Debug\MonyetSoft.EnronModbus.pdb

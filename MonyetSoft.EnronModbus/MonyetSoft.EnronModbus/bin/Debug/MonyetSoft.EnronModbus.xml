@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MonyetSoft.EnronModbus
+</name>
+</assembly>
+<members>
+<member name="T:MonyetSoft.EnronModbus.MonyetSoft.EnronModBus.ModbusUtility">
+ <summary>
+     Modbus utility methods.
+ </summary>
+</member>
+<member name="M:MonyetSoft.EnronModbus.MonyetSoft.EnronModBus.ModbusUtility.GetSingle(System.UInt16,System.UInt16)">
+ <summary>
+     Converts two UInt16 values into a IEEE 32 floating point format
+ </summary>
+ <param name="highOrderValue">High order ushort value</param>
+ <param name="lowOrderValue">Low order ushort value</param>
+ <returns>IEEE 32 floating point value</returns>
+</member>
+<member name="M:MonyetSoft.EnronModbus.MonyetSoft.EnronModBus.ModbusUtility.CalculateCrc(System.Byte[])">
+ <summary>
+     Calculate Cyclical Redundancy Check
+ </summary>
+ <param name="data">The data used in CRC</param>
+ <returns>CRC value</returns>
+</member>
+<member name="T:MonyetSoft.EnronModbus.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MonyetSoft.EnronModbus.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MonyetSoft.EnronModbus.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>
